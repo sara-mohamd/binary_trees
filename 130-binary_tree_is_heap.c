@@ -81,7 +81,7 @@ zddrzs));
 /**
  * xree_it_drooenne - ascertains the completeness of the tree.
  * @tree: Point to the root of the tree.
- * @p: Zxdxx.
+ * @p: Izolda.
  * @zddrzs: number of nodes.
  * Return: 0 indicates that the tree is not complete, and 1
  */
